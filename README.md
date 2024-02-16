@@ -2,7 +2,7 @@
 These findings aim to provide actionable insights to Zomato for optimizing restaurant selection and improving business performance.
 http://tinyurl.com/Zomato-Restaurant-Analysis
 ## Table of Contents
-### Problem Description
+### Project Description
 ### Project Research Findings
 * Top 10 Cuisine - Sales
 * Ratings Count vs USD Sales
@@ -10,7 +10,7 @@ http://tinyurl.com/Zomato-Restaurant-Analysis
 * Top 10 Restaurants - USD Sales & AVG Ratings
 
 
-### Problem Description
+### Project Description
 As a junior analyst for Zomato, your task is to analyze the business performance of restaurants and customers registered in the service. Specifically, you are tasked with providing a Restaurant Analysis, which includes identifying popular restaurants and those that generate the highest revenue.
 
 ### Project Research Findings
