@@ -1,6 +1,10 @@
 # Zomato-Restaurant-Analysis-Project
 These findings aim to provide actionable insights to Zomato for optimizing restaurant selection and improving business performance.
-http://tinyurl.com/Zomato-Restaurant-Analysis
+## Demo Video
+* https://www.loom.com/share/76b580700b5843dcb34709ab79bc3d29?sid=d583059f-6187-4b11-bf77-045b65968ef1
+## Link to Project
+* http://tinyurl.com/Zomato-Restaurant-Analysis
+
 ## Table of Contents
 ### Project Description
 ### Project Research Findings
