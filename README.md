@@ -11,7 +11,6 @@ https://www.loom.com/share/76b580700b5843dcb34709ab79bc3d29?sid=d583059f-6187-4b
 http://tinyurl.com/Zomato-Restaurant-Analysis
 
 ## Table of Contents
-
 ### Project Description
 ### Project Research Findings
 * Top 10 Cuisine - Sales
@@ -19,10 +18,10 @@ http://tinyurl.com/Zomato-Restaurant-Analysis
 * Top 10 Restaurants - Yearly USD Sales
 * Top 10 Restaurants - USD Sales & AVG Ratings
 * Project Dashboard
-### Conclusions
+### Conclusions & Recommendations
 
 
-
+----------------------------------
 
 ### Project Description
 The project task was to analyze the business performance of restaurants and customers registered in the zomato service. Specifically providing a Restaurant Analysis, which includes identifying popular restaurants and those that generate the highest revenue.
