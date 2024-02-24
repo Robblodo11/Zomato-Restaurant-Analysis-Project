@@ -5,10 +5,10 @@ These findings aim to provide actionable insights to Zomato for optimizing resta
 Deployment for this Tableau project requires Tableau Server or Tableau Online for hosting. System requirements include a supported web browser for accessing the Tableau dashboard, such as Google Chrome or Mozilla Firefox, and stable internet connectivity. Additionally, the project's compatibility relies on the version of Tableau Desktop used to create it, with the latest recommended for optimal performance.
 
 ### Demo Video
-* https://www.loom.com/share/76b580700b5843dcb34709ab79bc3d29?sid=d583059f-6187-4b11-bf77-045b65968ef1
+https://www.loom.com/share/76b580700b5843dcb34709ab79bc3d29?sid=d583059f-6187-4b11-bf77-045b65968ef1
 
 ### Link to Project
-* http://tinyurl.com/Zomato-Restaurant-Analysis
+http://tinyurl.com/Zomato-Restaurant-Analysis
 
 ## Table of Contents
 ### Project Description
