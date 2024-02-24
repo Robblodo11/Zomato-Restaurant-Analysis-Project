@@ -22,6 +22,8 @@ http://tinyurl.com/Zomato-Restaurant-Analysis
 ### Conclusions
 
 
+
+
 ### Project Description
 The project task was to analyze the business performance of restaurants and customers registered in the zomato service. Specifically providing a Restaurant Analysis, which includes identifying popular restaurants and those that generate the highest revenue.
 
